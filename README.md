@@ -15,4 +15,5 @@ I'm Chris, a data scientist and software developer.
 
 🌐 My stuff on other websites:
 - [LinkedIn](www.linkedin.com/in/chris-newton-32a5b6240)
-- [Kaggle Profile](https://www.kaggle.com/cnewto)
+- [Kaggle](https://www.kaggle.com/cnewto)
+- [LeetCode](https://leetcode.com/u/chris_newton/)
