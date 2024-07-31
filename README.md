@@ -1,4 +1,4 @@
-## Hi there 👋, 
+## Hi there 👋
 I'm Chris, a data scientist and software developer.
 
 🌱 I’m currently learning dimensionality reduction and gradient boosting techniques.
