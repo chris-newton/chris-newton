@@ -14,5 +14,5 @@ I'm Chris, a data scientist and software developer.
 📫 If you want to talk about some code, pull request! Otherwise, send me an email.
 
 🌐 My stuff on other websites:
-- www.linkedin.com/in/chris-newton-32a5b6240
-- https://www.kaggle.com/cnewto
+- [LinkedIn](www.linkedin.com/in/chris-newton-32a5b6240)
+- [Kaggle Profile](https://www.kaggle.com/cnewto)
