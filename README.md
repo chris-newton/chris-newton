@@ -7,8 +7,6 @@ I'm Chris, a data scientist and software developer.
 
 💬 Ask me about linear programming!
 
-👦 Pronouns: He, him.
-
 ⚡ Fun fact: I almost went to school for guitar.
 
 📫 If you want to talk about some code, pull request! Otherwise, send me an email.
