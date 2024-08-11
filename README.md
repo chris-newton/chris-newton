@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Chris, a data scientist and software developer.
+I'm Chris, a software developer and data engineer.
 
 🌱 I’m currently learning dimensionality reduction and gradient boosting techniques.
 
