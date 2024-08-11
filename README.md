@@ -8,6 +8,6 @@ I'm Chris, a data scientist and software developer.
 📫 If you want to talk about some code, pull request! Otherwise, send me an email.
 
 🌐 My stuff on other websites:
-- [Kaggle](https://www.kaggle.com/cnewto)
-- [LeetCode](https://leetcode.com/u/chris_newton/)
 - [LinkedIn](https://www.linkedin.com/in/chris-newton-32a5b6240/)
+- [LeetCode](https://leetcode.com/u/chris_newton/)
+- [Kaggle](https://www.kaggle.com/cnewto)
