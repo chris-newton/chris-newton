@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Chris, a software developer and data engineer.
 
-🌱 I’m currently learning dimensionality reduction and gradient boosting techniques.
+🌱 I’m currently learning React and Flask.
 
 🔭 I’m currently working on implementing the popular machine learning algorithms from scratch. 
 
@@ -10,4 +10,3 @@ I'm Chris, a software developer and data engineer.
 🌐 My stuff on other websites:
 - [LinkedIn](https://www.linkedin.com/in/chris-newton-32a5b6240/)
 - [LeetCode](https://leetcode.com/u/chris_newton/)
-- [Kaggle](https://www.kaggle.com/cnewto)
