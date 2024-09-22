@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm Chris, a software developer and data engineer.
-
+I'm Chris, a web developer.
 🌱 I’m currently learning React and Flask.
 
 🔭 I’m currently working on implementing the popular machine learning algorithms from scratch. 
